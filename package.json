@@ -1,0 +1,36 @@
+{
+  "name": "pod-castr",
+  "version": "1.0.0",
+  "description": "Pod Castr app screens",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/username/repository.git"
+  },
+  "keywords": [
+    "Sass",
+    "HTML5",
+    "CSS3",
+    "jQuery"
+  ],
+  "author": "Mangesh Gawade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/username/repository/issues"
+  },
+  "homepage": "https://github.com/username/repository#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.5",
+    "browser-sync-client": "^2.26.4",
+    "browsersync": "0.0.1-security",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.1.0",
+    "node-sass": "^4.12.0"
+  },
+  "dependencies": {
+    "gulp-sass": "^4.0.2"
+  }
+}

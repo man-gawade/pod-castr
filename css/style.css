@@ -1,0 +1,20 @@
+/**
+ * If using a CSS pre-processor, tell it to overwrite this file. If not, place
+ * your custom CSS modifications here.
+ */
+@import url(../fonts/poppins/fonts.css);
+.pod-cast-wrapper {
+  background-color: #2C2838;
+  background-image: url("../images/logoOverlay.png");
+  background-repeat: no-repeat;
+  background-position: right top;
+  height: 812px;
+  max-width: 375px;
+  margin: 0 auto; }
+
+.logo-wrapper {
+  padding: 50px 0 0 28px; }
+
+.page-title {
+  font-family: "Poppins-ExtraBold";
+  font-size: 12px; }
